@@ -72,14 +72,14 @@ http://{domain.com}/public/
 ![interfaz](https://user-images.githubusercontent.com/15696325/36364072-ab9fc0fc-1520-11e8-87d5-feed6cd88497.png)
 
 
-### Test Case with phpunit: 
+### Run Test Case with phpunit: 
 
 Open console, go to directory where is the app: 
 
 Example: 
 
 ```bash
-jesus@debian:/var/www/html/api-user-lumen$ ./vendor/bin/phpunit 
+jesus@debian:/var/www/html/api-user-lumen$ ***./vendor/bin/phpunit*** 
 
 ```
 
