@@ -95,7 +95,6 @@ URL: http://{domain.com}/public/api/users
 Example: http://localhost/api-user-lumen/public/api/users
 
 ```php
-
 GET /api-user-lumen/public/api/users?page=10 HTTP/1.1
 Host: localhost
 Content-Type: application/json
@@ -103,7 +102,6 @@ Cache-Control: no-cache
 Postman-Token: 287e29e7-a26a-344a-2edf-7dd0e5125f90
 
 ``` 
-
 
 
 ***Get User:***
@@ -133,7 +131,6 @@ URL: http://{domain.com}/public/api/update/{update}
 Example: http://localhost/api-user-lumen/public/api/update/1 
 
 ```php
-
 POST /api-user-lumen/public/api/update/1 HTTP/1.1
 Host: localhost
 Cache-Control: no-cache
@@ -206,7 +203,6 @@ Content-Type: image/png
 ------WebKitFormBoundary7MA4YWxkTrZu0gW--
 
 ``` 
-
 
 Using tool POSTMAN for test de app plugin of google-chrome:
 
