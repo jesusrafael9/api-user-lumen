@@ -79,7 +79,7 @@ Open console, go to directory where is the app:
 Example: 
 
 ```bash
-jesus@debian:/var/www/html/api-user-lumen$ ***./vendor/bin/phpunit*** 
+jesus@debian:/var/www/html/api-user-lumen$ ./vendor/bin/phpunit 
 
 ```
 
