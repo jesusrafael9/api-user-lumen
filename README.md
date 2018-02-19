@@ -18,7 +18,7 @@ Programs                | Version
  Git 					| 2.11.0
 
 
-###Clone repository
+### Clone repository
 
 ```bash
 git clone https://github.com/jesusrafael9/api-user-lumen.git
@@ -26,14 +26,14 @@ git clone https://github.com/jesusrafael9/api-user-lumen.git
 ```
 
 
-###Updating packages with composer: 
+### Updating packages with composer: 
 
 ```bash
 composer update
 
 ```
 
-###Set up data base:
+### Set up data base:
 Into bash of mysql, create database,  
 
 ```bash
@@ -42,7 +42,7 @@ MariaDB [(none)]> CREATE DATABASE api_user_lumen;
 ```
 
 
-###Configure lumen with database
+### Configure lumen with database
 
 Rename file .env.example to  .env 
 
@@ -59,19 +59,19 @@ DB_PASSWORD=password
 ``` 
 
 
-###Install app:
+### Install app:
 Open the browser with the URL:
 
 http://{domain.com}/public/install
 
 
 
-###Main Interfaz:
+### Main Interfaz:
 http://{domain.com}/public/
 
 
 
-###Test Case with phpunit: 
+### Test Case with phpunit: 
 
 Open console, go to directory where is the app: 
 Example: 
@@ -82,7 +82,7 @@ jesus@debian:/var/www/html/api-user-lumen$ ./vendor/bin/phpunit
 ```
 
 
-###APIs User: 
+### APIs User: 
 
 Get all Users:
 Method: GET 
