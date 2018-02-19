@@ -85,6 +85,7 @@ jesus@debian:/var/www/html/api-user-lumen$ ./vendor/bin/phpunit
 
 
 ### APIs User: 
+Using tool POSTMAN for test de app installed plugin of google-chrome:
 
 ***Get all Users:***
 
@@ -204,7 +205,8 @@ Content-Type: image/png
 
 ``` 
 
-Using tool POSTMAN for test de app plugin of google-chrome:
+Screen Postman: 
+
 
 
 
