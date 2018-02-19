@@ -4,7 +4,7 @@ Api user with framework Lumen
 
 
 
-***This application was run on debian jessie operating system***
+***This application was run on debian stretch operating system***
 
 ### Requirements
 
@@ -85,7 +85,7 @@ jesus@debian:/var/www/html/api-user-lumen$ ./vendor/bin/phpunit
 
 ### APIs User: 
 
-Get all Users:
+***Get all Users:***
 
 Method: GET 
 
@@ -94,7 +94,7 @@ URL: http://{domain.com}/public/api/users
 Example: http://localhost/api-user-lumen/public/api/users
 
 
-Get User:
+***Get User:***
 
 Method: GET
 
@@ -103,7 +103,7 @@ URL: http://{domain.com}/public/api/user/{id}
 Example: http://localhost/api-user-lumen/public/api/user/3
 
 
-Update User:
+***Update User:***
 
 Method: POST
 
@@ -112,7 +112,7 @@ URL: http://{domain.com}/public/api/update/{update}
 Example: http://localhost/api-user-lumen/public/api/update/1 
 
 
-Delete User:
+***Delete User:***
 
 Method: DELETE
 
@@ -121,7 +121,7 @@ URL: http://{domain.com}/public/api/delete/{id}
 Example: http://localhost/api-user-lumen/public/api/delete/3
 
 
-Create User:
+***Create User:***
 
 Method: POST
 
